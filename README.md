@@ -99,14 +99,6 @@ I believe the best way to master AI is to understand the "why" behind the equati
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
 </details>
 
-<details>
-<summary><b>Foundational Skills (Legacy)</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-</details>
-
 ---
 
 ## 📚 Education
