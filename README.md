@@ -39,15 +39,5 @@ My ultimate goal is to become a Fullstack AI Engineer, mastering everything from
 [![💜 Yahoo Mail](https://img.shields.io/badge/Yahoo_Mail-6001D2?logo=yahoo&logoColor=white&style=flat-square)](mailto:bishrahmed845@yahoo.com)
 
 
-## 🏆 GitHub Stats
-
-![Ahmed012-EG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed012-EG&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed012-EG&layout=compact&theme=radical&hide_border=true)
-
-## 🏆 Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed012-EG&theme=tokyonight&hide_border=true)
-
----
 
 > _Let's connect and build cutting-edge tech together!_
