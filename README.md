@@ -41,12 +41,12 @@ My ultimate goal is to become a Fullstack AI Engineer, mastering everything from
 
 ## 🏆 GitHub Stats
 
-![Ahmed Bishr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Bishr&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Bishr&layout=compact&theme=radical&hide_border=true)
+![Ahmed012-EG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed012-EG&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed012-EG&layout=compact&theme=radical&hide_border=true)
 
 ## 🏆 Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Bishr&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed012-EG&theme=tokyonight&hide_border=true)
 
 ---
 
